@@ -1,0 +1,32 @@
+[
+	{
+		"id": 1,
+		"name": "Pizza Margherita",
+		"description": "Salsa de tomate, mozzarella, albahaca",
+		"price": 10.0
+	},
+	{
+		"id": 2,
+		"name": "Pizza Pepperoni",
+		"description": "Salsa de tomate, mozzarella, pepperoni",
+		"price": 12.0
+	},
+	{
+		"id": 3,
+		"name": "Pizza Hawaiana",
+		"description": "Salsa de tomate, mozzarella, piña, jamón",
+		"price": 15.0
+	},
+	{
+		"id": 4,
+		"name": "Pizza Vegetariana",
+		"description": "Salsa de tomate, mozzarella, vegetales",
+		"price": 13.0
+	},
+	{
+		"id": 5,
+		"name": "Pizza Carbonara",
+		"description": "Salsa de tomate, mozzarella, bacon, cebolla",
+		"price": 14.0
+	}
+]
