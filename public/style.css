@@ -1,0 +1,27 @@
+body {
+	font-family: 'Arial', sans-serif;
+	max-width: 800px;
+	margin: 0 auto;
+	padding: 20px;
+	background-color: #fff5f5;
+}
+h1 {
+	color: #e31837;
+	text-align: center;
+}
+.pizza-content {
+	background-color: white;
+	padding: 20px;
+	border-radius: 10px;
+	box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+}
+.pizza-list {
+	list-style-type: none;
+	padding: 0;
+}
+.pizza-list li {
+	margin: 10px 0;
+	padding: 10px;
+	background-color: #f8f8f8;
+	border-radius: 5px;
+}
